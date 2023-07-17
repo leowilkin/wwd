@@ -1,5 +1,5 @@
 {
-  "name": "astroship",
+  "name": "wilkin-web",
   "type": "module",
   "version": "0.0.1",
   "private": true,
@@ -26,5 +26,9 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.9",
     "sharp": "^0.31.3"
-  }
+  },
+  "description": "Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS.",
+  "main": "index.js",
+  "author": "LKW",
+  "license": "ISC"
 }
